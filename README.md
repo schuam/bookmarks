@@ -45,7 +45,7 @@ Examples](https://queirozf.com/entries/scikit-learn-pipeline-examples#text-class
 
 [ArchWiki](https://wiki.archlinux.org/)
 [The Linux Foundation](https://linuxfoundation.org/)
-[LFS201 Class Forum]https://forum.linuxfoundation.org/categories/lfs201-class-forum)
+[LFS201 Class Forum](https://forum.linuxfoundation.org/categories/lfs201-class-forum)
 [DNS Dumpster](https://dnsdumpster.com/)
 
 
