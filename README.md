@@ -49,6 +49,14 @@ my list of links useful is welcome to use it.
 - [DNS Dumpster](https://dnsdumpster.com/)
 
 
+## Git
+
+- [Git Reference Manual](https://git-scm.com/docs)
+- [Pro Git](https://git-scm.com/book/en/v2)
+- [Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
+- [Git From the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4)
+
+
 ## Bug Hunting
 
 
