@@ -32,6 +32,7 @@ my list of links useful is welcome to use it.
 - [matplotlib Reference](https://matplotlib.org/stable/api/index)
 - [pandas Reference](https://pandas.pydata.org/docs/reference/index.html)
 - [scikit learn Reference](https://scikit-learn.org/stable/modules/classes.html)
+- [Python API reference for plotly](https://plotly.com/python-api-reference/index.html)
 - [django Documentation](https://docs.djangoproject.com/en/4.0/)
 - [Django Best Practices](https://django-best-practices.readthedocs.io/en/latest/index.html)
 - [Corey Schafer's "Django Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
