@@ -55,6 +55,14 @@ my list of links useful is welcome to use it.
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
 - [Git From the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4)
+- [Seth Robertson's "Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
+
+
+## xmonad
+
+- [xmonad](https://xmonad.org/)
+- [XMonad Configuration Tutorial](https://xmonad.org/TUTORIAL.html)
+- [Blog Post: Xmonad and Xmobar for laptop](https://gumirov.xyz/posts/f15c07386b770f9be62364935f64db1f37853cf1500d55ca795064165abed740/)
 
 
 ## Bug Hunting
