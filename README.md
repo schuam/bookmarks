@@ -41,6 +41,12 @@ my list of links useful is welcome to use it.
 - [Stock Prediction with ML](https://alphascientist.com/data_management.html)
 
 
+## Django
+- [Django Project](https://www.djangoproject.com/)
+- [The Django Book](https://djangobook.com/)
+- [Corey Schafer's Django Series](https://www.youtube.com/playlist?list=PLLtIxaRk6P3JRiiW1SAV2BLhuuSSCULRn)
+
+
 ## Linux
 
 - [ArchWiki](https://wiki.archlinux.org/)
@@ -63,6 +69,14 @@ my list of links useful is welcome to use it.
 - [xmonad](https://xmonad.org/)
 - [XMonad Configuration Tutorial](https://xmonad.org/TUTORIAL.html)
 - [Blog Post: Xmonad and Xmobar for laptop](https://gumirov.xyz/posts/f15c07386b770f9be62364935f64db1f37853cf1500d55ca795064165abed740/)
+
+
+## Ansible
+
+- [Ansible Homepage](https://www.ansible.com/)
+- [Ansible Galaxy](https://galaxy.ansible.com/)
+- [Book: Ansible for DevOps](https://leanpub.com/ansible-for-devops)
+- [Jeff Geerling's Ansible 101 Series](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 
 
 ## Bug Hunting
