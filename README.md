@@ -82,6 +82,7 @@ finds my list of links useful is welcome to use it.
 ## Arch
 
 - [Pacman Package Upgrad Issues (GPG Key)](https://bbs.archlinux.org/viewtopic.php?id=233362)
+- [Install Nerd Font on Arch Linux – Behova.net](https://www.behova.net/install-nerd-font-on-arch-linux/)
 
 
 ## Bug Hunting
