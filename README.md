@@ -79,6 +79,11 @@ finds my list of links useful is welcome to use it.
 - [Jeff Geerling's Ansible 101 Series](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
 
 
+## Arch
+
+- [Pacman Package Upgrad Issues (GPG Key)](https://bbs.archlinux.org/viewtopic.php?id=233362)
+
+
 ## Bug Hunting
 
 
