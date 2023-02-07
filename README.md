@@ -85,6 +85,11 @@ finds my list of links useful is welcome to use it.
 - [Install Nerd Font on Arch Linux – Behova.net](https://www.behova.net/install-nerd-font-on-arch-linux/)
 
 
+## kubernetes
+
+- [Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+
+
 ## Bug Hunting
 
 
