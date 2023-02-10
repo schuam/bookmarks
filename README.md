@@ -33,18 +33,18 @@ finds my list of links useful is welcome to use it.
 - [pandas Reference](https://pandas.pydata.org/docs/reference/index.html)
 - [scikit learn Reference](https://scikit-learn.org/stable/modules/classes.html)
 - [Python API reference for plotly](https://plotly.com/python-api-reference/index.html)
-- [django Documentation](https://docs.djangoproject.com/en/4.0/)
-- [Django Best Practices](https://django-best-practices.readthedocs.io/en/latest/index.html)
-- [Corey Schafer's "Django Tutorials"](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
 - [Top 10 Mistakes that Django Developers Make](https://www.toptal.com/django/django-top-10-mistakes)
 - [Scikit-Learn Pipeline Examples](https://queirozf.com/entries/scikit-learn-pipeline-examples#text-classification-nlp)
 - [Stock Prediction with ML](https://alphascientist.com/data_management.html)
+- [Przemek Rogala's Jinja2 Tutorial](https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/)
 
 
 ## Django
 - [Django Project](https://www.djangoproject.com/)
 - [The Django Book](https://djangobook.com/)
 - [Corey Schafer's Django Series](https://www.youtube.com/playlist?list=PLLtIxaRk6P3JRiiW1SAV2BLhuuSSCULRn)
+- [django Documentation](https://docs.djangoproject.com/en/4.0/)
+- [Django Best Practices](https://django-best-practices.readthedocs.io/en/latest/index.html)
 
 
 ## Linux
@@ -61,7 +61,7 @@ finds my list of links useful is welcome to use it.
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
 - [Git From the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4)
-- [Seth Robertson's "Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
+- [Seth Robertson's "Git Best Practices"](http://sethrobertson.github.io/GitBestPractices/)
 
 
 ## xmonad
