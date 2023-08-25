@@ -90,6 +90,18 @@ finds my list of links useful is welcome to use it.
 - [Creating a cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
 
 
+## NeoMutt
+
+- [NeoMutt Project Homepage](https://neomutt.org/)
+- [Reply from address the original message was sent to](https://unix.stackexchange.com/questions/637029/neomutt-reply-to-email-from-the-adress-the-original-message-was-sent-to-auto)
+
+
+## Keyring
+
+- [Arch Wiki: GNOME/Keyring](https://wiki.archlinux.org/title/GNOME/Keyring)
+- [Interesting threat about PAM and pinentry](https://superuser.com/questions/1460356/gpg-autologin-with-pam-pinentry)
+
+
 ## Bug Hunting
 
 
