@@ -96,6 +96,12 @@ finds my list of links useful is welcome to use it.
 - [Reply from address the original message was sent to](https://unix.stackexchange.com/questions/637029/neomutt-reply-to-email-from-the-adress-the-original-message-was-sent-to-auto)
 
 
+## GPG
+
+- [A Practical Guide to GPG](https://www.linuxbabe.com/security/a-practical-guide-to-gpg-part-1-generate-your-keypair)
+- [Arch Wiki: GnuPG](https://wiki.archlinux.org/title/GnuPG#gpg-agent)
+
+
 ## Keyring
 
 - [Arch Wiki: GNOME/Keyring](https://wiki.archlinux.org/title/GNOME/Keyring)
