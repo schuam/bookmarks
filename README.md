@@ -49,10 +49,15 @@ finds my list of links useful is welcome to use it.
 
 ## Linux
 
-- [ArchWiki](https://wiki.archlinux.org/)
 - [The Linux Foundation](https://linuxfoundation.org/)
-- [LFS201 Class Forum](https://forum.linuxfoundation.org/categories/lfs201-class-forum)
 - [DNS Dumpster](https://dnsdumpster.com/)
+
+
+### Arch
+
+- [ArchWiki](https://wiki.archlinux.org/)
+- [Pacman Package Upgrad Issues (GPG Key)](https://bbs.archlinux.org/viewtopic.php?id=233362)
+- [Install Nerd Font on Arch Linux – Behova.net](https://www.behova.net/install-nerd-font-on-arch-linux/)
 
 
 ## Git
@@ -77,12 +82,6 @@ finds my list of links useful is welcome to use it.
 - [Ansible Galaxy](https://galaxy.ansible.com/)
 - [Book: Ansible for DevOps](https://leanpub.com/ansible-for-devops)
 - [Jeff Geerling's Ansible 101 Series](https://www.youtube.com/watch?v=goclfp6a2IQ&list=PL2_OBreMn7FqZkvMYt6ATmgC0KAGGJNAN)
-
-
-## Arch
-
-- [Pacman Package Upgrad Issues (GPG Key)](https://bbs.archlinux.org/viewtopic.php?id=233362)
-- [Install Nerd Font on Arch Linux – Behova.net](https://www.behova.net/install-nerd-font-on-arch-linux/)
 
 
 ## kubernetes
