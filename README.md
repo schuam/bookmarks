@@ -60,6 +60,14 @@ finds my list of links useful is welcome to use it.
 - [Install Nerd Font on Arch Linux – Behova.net](https://www.behova.net/install-nerd-font-on-arch-linux/)
 
 
+### Yocto
+
+- [Yocto Project Documentation](https://docs.yoctoproject.org/index.html)
+- [Yocto Project Reference Manual](https://docs.yoctoproject.org/ref-manual/index.html)
+- [What I wish I’d known about Yocto Project](https://docs.yoctoproject.org/what-i-wish-id-known.html)
+- [The Yocto Project Development Tasks Manual](https://docs.yoctoproject.org/dev-manual/intro.html#)
+
+
 ## Git
 
 - [Git Reference Manual](https://git-scm.com/docs)
