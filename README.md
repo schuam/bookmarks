@@ -51,6 +51,7 @@ finds my list of links useful is welcome to use it.
 
 - [The Linux Foundation](https://linuxfoundation.org/)
 - [DNS Dumpster](https://dnsdumpster.com/)
+- [Linux Kernel Browser](https://elixir.bootlin.com/)
 
 
 ### Arch
@@ -66,6 +67,16 @@ finds my list of links useful is welcome to use it.
 - [Yocto Project Reference Manual](https://docs.yoctoproject.org/ref-manual/index.html)
 - [What I wish I’d known about Yocto Project](https://docs.yoctoproject.org/what-i-wish-id-known.html)
 - [The Yocto Project Development Tasks Manual](https://docs.yoctoproject.org/dev-manual/intro.html#)
+
+
+## Open Source
+
+
+### Conferences
+
+- [Fosdem](https://fosdem.org/)
+- [Open Source Summit (Europe)](https://events.linuxfoundation.org/open-source-summit-europe/)
+- [Embedded Linux Conference](https://www.embeddedlinuxconference.com/)
 
 
 ## Git
