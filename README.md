@@ -71,6 +71,8 @@ finds my list of links useful is welcome to use it.
 
 ## Open Source
 
+- [Good overview and explanation of open source licenses)[https://www.tldrlegal.com/]
+
 
 ### Conferences
 
