@@ -69,7 +69,8 @@ finds my list of links useful is welcome to use it.
 - [The Yocto Project Development Tasks Manual](https://docs.yoctoproject.org/dev-manual/intro.html#)
 - [Yocto Project Wiki](https://wiki.yoctoproject.org/wiki/Main_Page)
 - [Yocto Project Git Repo](https://git.yoctoproject.org/)
-- [OpenEmbedded Layer Indes](https://layers.openembedded.org/)
+- [Yocto Project Compatible Layers](https://www.yoctoproject.org/development/yocto-project-compatible-layers/)
+- [OpenEmbedded Layer Index](https://layers.openembedded.org/)
 
 
 ## Open Source
