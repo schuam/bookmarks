@@ -20,12 +20,15 @@ specific to my needs. I still thought, I would make it a public, so anyone that
 finds my list of links useful is welcome to use it.
 
 
-## Shell Scripting
+## Programming
+
+
+### Shell Scripting
 
 - [Jürgen Wolf's book Shell-Programmierung (German)](https://openbook.rheinwerk-verlag.de/shell_programmierung/)
 
 
-## Python
+### Python
 
 - [Python documentation](https://docs.python.org/3/)
 - [NumPy Reference](https://numpy.org/doc/stable/reference/index.html)
@@ -39,12 +42,33 @@ finds my list of links useful is welcome to use it.
 - [Przemek Rogala's Jinja2 Tutorial](https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/)
 
 
-## Django
+### Django
+
 - [Django Project](https://www.djangoproject.com/)
 - [The Django Book](https://djangobook.com/)
 - [Corey Schafer's Django Series](https://www.youtube.com/playlist?list=PLLtIxaRk6P3JRiiW1SAV2BLhuuSSCULRn)
 - [django Documentation](https://docs.djangoproject.com/en/4.0/)
 - [Django Best Practices](https://django-best-practices.readthedocs.io/en/latest/index.html)
+
+
+### Semaphore vs Mutex
+
+- [Quantum Leaps: Modern Embedded Systems Programming: great video about semaphores](https://www.youtube.com/watch?v=IrDcBZX0AdY&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&index=28)
+- [Quantum Leaps: Modern Embedded Systems Programming: great video about mutexes](https://www.youtube.com/watch?v=kcpVI3IjUUM&list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM&index=29)
+
+  It also explains nicely the difference between the `Priority Ceiling Protocol` and the `Priority Inheritance Protocol` and why the first one is probably preferred in most cases.
+  
+- [Great article about Mutexes](https://www.smxrtos.com/articles/techppr/mutex.htm)
+  
+  It mentions disadantages of the `Priority Ceiling Protocol` and explains situations when it might not be preferred over the `Priority Inheritance Protocol`. It also talks about deadlocks.
+  
+- [Digikey: Nice article about Priority Inversion](https://www.digikey.at/en/maker/projects/introduction-to-rtos-solution-to-part-11-priority-inversion/abf4b8f7cd4a4c70bece35678d178321)
+
+  It nicely explains why the `Priority Ceiling Protocol` and the `Priority Inheritance Protocol` only prevent unbounded priority inversion but not bounded priority inversion.
+  
+- [Digikey: accompanying video ot the previous article](https://www.youtube.com/watch?v=C2xKhxROmhA)
+- [Good explanation of Sempahores and Mutexes (in Java)](https://scrutinybykhimaanshu.blogspot.com/2019/08/all-about-java-semaphore.html)
+- 
 
 
 ## Linux
