@@ -68,7 +68,11 @@ finds my list of links useful is welcome to use it.
   
 - [Digikey: accompanying video ot the previous article](https://www.youtube.com/watch?v=C2xKhxROmhA)
 - [Good explanation of Sempahores and Mutexes (in Java)](https://scrutinybykhimaanshu.blogspot.com/2019/08/all-about-java-semaphore.html)
-- 
+
+
+### Tests
+
+- [Book: XUnit Test Patterns](http://xunitpatterns.com/index.html)
 
 
 ## Linux
