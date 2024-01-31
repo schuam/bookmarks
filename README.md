@@ -77,6 +77,7 @@ finds my list of links useful is welcome to use it.
 
 ## Linux
 
+- [Jürgen Wolf's Book: Linux-UNIX-Programmierung (German)](https://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
 - [The Linux Foundation](https://linuxfoundation.org/)
 - [DNS Dumpster](https://dnsdumpster.com/)
 - [Linux Kernel Browser](https://elixir.bootlin.com/)
