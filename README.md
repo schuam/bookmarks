@@ -161,6 +161,12 @@ finds my list of links useful is welcome to use it.
 - [Interesting threat about PAM and pinentry](https://superuser.com/questions/1460356/gpg-autologin-with-pam-pinentry)
 
 
+## Documentation
+
+- [Grafana's Writers Toolkit](https://grafana.com/docs/writers-toolkit/)
+
+
+
 ## Bug Hunting
 
 
