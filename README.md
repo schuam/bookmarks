@@ -40,6 +40,7 @@ finds my list of links useful is welcome to use it.
 - [Scikit-Learn Pipeline Examples](https://queirozf.com/entries/scikit-learn-pipeline-examples#text-classification-nlp)
 - [Stock Prediction with ML](https://alphascientist.com/data_management.html)
 - [Przemek Rogala's Jinja2 Tutorial](https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/)
+- [Medium: Mocking functions Part I | Better Unit Testing in Python with pytest-mock](https://medium.com/analytics-vidhya/mocking-in-python-with-pytest-mock-part-i-6203c8ad3606)
 
 
 ### Django
