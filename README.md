@@ -162,6 +162,10 @@ finds my list of links useful is welcome to use it.
 - [Arch Wiki: GNOME/Keyring](https://wiki.archlinux.org/title/GNOME/Keyring)
 - [Interesting threat about PAM and pinentry](https://superuser.com/questions/1460356/gpg-autologin-with-pam-pinentry)
 
+## Password Manager
+
+- [Good video about `pass`](https://www.youtube.com/watch?v=FhwsfH2TpFA)
+
 
 ## Documentation
 
