@@ -103,6 +103,15 @@ finds my list of links useful is welcome to use it.
 - [OpenEmbedded Layer Index](https://layers.openembedded.org/)
 
 
+## Zephyr
+
+- [Zephyr Project (Github)](https://github.com/zephyrproject-rtos)
+- [Zephyr Source Code (Github)](https://github.com/zephyrproject-rtos/zephyr)
+- [Zephyr Documentation](https://docs.zephyrproject.org/latest/index.html)
+- [Digikey's Introduction to Zephyr](https://www.youtube.com/playlist?list=PLEBQazB0HUyTmK2zdwhaf8bLwuEaDH-52)
+- [Video-series: Zephyr Developer Summit - June 2022](https://www.youtube.com/playlist?list=PLzRQULb6-ipFDwFONbHu-Qb305hJR7ICe)
+- [Tutorial: Mastering Zephyr Driver Development (youtube)](https://www.youtube.com/watch?v=o-f2qCd2AXo&list=PLzRQULb6-ipFDwFONbHu-Qb305hJR7ICe)
+
 ## Open Source
 
 - [Good overview and explanation of open source licenses](https://www.tldrlegal.com/)
