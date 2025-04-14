@@ -76,6 +76,24 @@ finds my list of links useful is welcome to use it.
 - [Book: XUnit Test Patterns](http://xunitpatterns.com/index.html)
 
 
+### GDB: The GNU Project Debugger
+
+- [Homepage](https://www.sourceware.org/gdb/)
+- [Tutorial: Debugging Embedded Devices Using GDB - A Review of Some Lessons Learned](https://www.youtube.com/watch?v=FnfuxDVFcWE)
+- [Tutorial: Debugging Embedded Devices using GDB](https://www.youtube.com/watch?v=JGhAgd2a_Ck)
+- [Jacob Sorber: How to reverse execution when debugging in GDB](https://www.youtube.com/watch?v=237r-yWTSSg)
+- SVD
+  - [svd-tools (Github)](https://github.com/1udo6arre/svd-tools): Needs to be
+    cloned locally.
+  - [cmsis-svd-data (Github)](https://github.com/cmsis-svd/cmsis-svd-data.git):
+    Needs to be cloned locally.
+  - [cmsis-svs on pypi](https://pypi.org/project/cmsis-svd/): Needs to be
+    isntalled.
+  - [terminaltables on pypi](https://pypi.org/project/terminaltables/): Needs
+    to be isntalled.
+  - [ST: CMSIS-SVD environment and scripts](https://wiki.st.com/stm32mpu/wiki/CMSIS-SVD_environment_and_scripts)
+
+
 ## Linux
 
 - [Jürgen Wolf's Book: Linux-UNIX-Programmierung (German)](https://openbook.rheinwerk-verlag.de/linux_unix_programmierung/)
