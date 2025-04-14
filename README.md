@@ -111,6 +111,7 @@ finds my list of links useful is welcome to use it.
 - [Digikey's Introduction to Zephyr](https://www.youtube.com/playlist?list=PLEBQazB0HUyTmK2zdwhaf8bLwuEaDH-52)
 - [Video-series: Zephyr Developer Summit - June 2022](https://www.youtube.com/playlist?list=PLzRQULb6-ipFDwFONbHu-Qb305hJR7ICe)
 - [Tutorial: Mastering Zephyr Driver Development (youtube)](https://www.youtube.com/watch?v=o-f2qCd2AXo&list=PLzRQULb6-ipFDwFONbHu-Qb305hJR7ICe)
+- [Video: Manifests: Project Sanity in the Ever-Changing Zephyr World](https://www.youtube.com/watch?v=PVhu5rg_SGY)
 
 ## Open Source
 
